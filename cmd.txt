@@ -6,3 +6,5 @@ git checkout -- unstaged_file
 
 git commit uncommit_file -m "log"
 git reset --hard commid_id
+
+shit software:guanAiTong
