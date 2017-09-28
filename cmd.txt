@@ -5,6 +5,7 @@ git add unstaged_file
 git checkout -- unstaged_file
 
 git commit uncommit_file -m "log"
+#change uncommit_file to unstaged_file 
+git reset HEAD uncommit_file
+#change the version of files in work_Directory
 git reset --hard commid_id
-
-shit software:guanAiTong
