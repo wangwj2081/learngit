@@ -9,3 +9,8 @@ git commit uncommit_file -m "log"
 git reset HEAD uncommit_file
 #change the version of files in work_Directory
 git reset --hard commid_id
+
+git branch [name]
+git branch
+git checkout [name]
+git merge [name]
